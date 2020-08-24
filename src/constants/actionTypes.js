@@ -1,0 +1,3 @@
+export const SET_STUDENTS = "SET_STUDENTS";
+export const GET_STUDENTS = "GET_STUDENTS";
+export const ADD_STUDENTS = "ADD_STUDENTS";

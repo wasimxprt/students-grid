@@ -11,3 +11,8 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.table-bordered th, .table-bordered td {
+  border: 1px solid #dee2e6;
+  word-break: break-word;
+}
